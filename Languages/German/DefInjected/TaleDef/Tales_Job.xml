@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tale_UsedPunchingBag.label>Hat Boxsack geschlagen</Tale_UsedPunchingBag.label>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] lässt seinen Ärger an [OBJECT_label] aus</Tale_UsedPunchingBag.rulePack.rulesStrings.0>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] schaut wütended auf [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.1>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] vergnügt sich mit [PAWN_objective] selbst am [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.2>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.3>image->[PAWN_nameFull] duckt sich vor [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.3>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.4>image->[PAWN_nameFull] schlägt [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.4>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.5>circumstance_phrase->mit angespannter Energie</Tale_UsedPunchingBag.rulePack.rulesStrings.5>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.6>circumstance_phrase->[PAWN_possessive] Körper wird locker und relaxed</Tale_UsedPunchingBag.rulePack.rulesStrings.6>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.7>circumstance_phrase->massiert behutsam [PAWN_possessive] Handgelenke</Tale_UsedPunchingBag.rulePack.rulesStrings.7>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.8>circumstance_phrase->[angstyverb] mit [AdjectiveAngsty] Ausdruck</Tale_UsedPunchingBag.rulePack.rulesStrings.8>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.9>circumstance_phrase->umüllt die Hände mit Tape</Tale_UsedPunchingBag.rulePack.rulesStrings.9>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.10>circumstance_phrase->[angstyverb]</Tale_UsedPunchingBag.rulePack.rulesStrings.10>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.11>desc_sentence->Eine [Color] Aurora leuchtet im Hintergrund.</Tale_UsedPunchingBag.rulePack.rulesStrings.11>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.12>desc_sentence->In der Ferne ist eine [Community] zu sehen.</Tale_UsedPunchingBag.rulePack.rulesStrings.12>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.13>desc_sentence->Mit etwas Distanz wird [TerrainFeature] sichtbar.</Tale_UsedPunchingBag.rulePack.rulesStrings.13>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.14>desc_sentence->[PAWN_nameDef]'s Züge sind übertrieben.</Tale_UsedPunchingBag.rulePack.rulesStrings.14>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.15>desc_sentence->[PAWN_nameDef] turmt über der Szene.</Tale_UsedPunchingBag.rulePack.rulesStrings.15>
+
+  <Tale_UsedComputer.label>Hat Computer benutzt</Tale_UsedComputer.label>
+  <Tale_UsedComputer.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] konzentriert sich stark auf den [OBJECT_label] und blendet alles andere aus</Tale_UsedComputer.rulePack.rulesStrings.0>
+  <Tale_UsedComputer.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] schaut zornig auf den [OBJECT_label]</Tale_UsedComputer.rulePack.rulesStrings.1>
+  <Tale_UsedComputer.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] erfreut sich am [OBJECT_label]</Tale_UsedComputer.rulePack.rulesStrings.2>
+  <Tale_UsedComputer.rulePack.rulesStrings.3>image->[PAWN_nameFull] lehnt sich über den [OBJECT_label], [circumstance_group]</Tale_UsedComputer.rulePack.rulesStrings.3>
+  <Tale_UsedComputer.rulePack.rulesStrings.4>image->[PAWN_nameFull] tippt rasendschnell auf dem [OBJECT_label], [circumstance_group]</Tale_UsedComputer.rulePack.rulesStrings.4>
+  <Tale_UsedComputer.rulePack.rulesStrings.5>circumstance_phrase->konzentriert</Tale_UsedComputer.rulePack.rulesStrings.5>
+  <Tale_UsedComputer.rulePack.rulesStrings.6>circumstance_phrase->[PAWN_possessive] Körper wird locker und relaxed</Tale_UsedComputer.rulePack.rulesStrings.6>
+  <Tale_UsedComputer.rulePack.rulesStrings.7>circumstance_phrase->lehnt sich zurück in den Stuhl</Tale_UsedComputer.rulePack.rulesStrings.7>
+  <Tale_UsedComputer.rulePack.rulesStrings.8>desc_sentence->Eine [Color] Aurora wirft Lichter im Hintergrund.</Tale_UsedComputer.rulePack.rulesStrings.8>
+  <Tale_UsedComputer.rulePack.rulesStrings.9>desc_sentence->In der Ferne ist eine [Community] zu sehen.</Tale_UsedComputer.rulePack.rulesStrings.9>
+  <Tale_UsedComputer.rulePack.rulesStrings.10>desc_sentence->Mit etwas Distanz wird [TerrainFeature] sichtbar.</Tale_UsedComputer.rulePack.rulesStrings.10>
+  <Tale_UsedComputer.rulePack.rulesStrings.11>desc_sentence->[PAWN_nameDef] fokussiert den Bildschirm.</Tale_UsedComputer.rulePack.rulesStrings.11>
+  <Tale_UsedComputer.rulePack.rulesStrings.12>desc_sentence->[PAWN_nameDef] erhebt sich über der Szene.</Tale_UsedComputer.rulePack.rulesStrings.12>
+
+</LanguageData>

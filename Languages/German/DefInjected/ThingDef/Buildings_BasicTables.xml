@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Table_1x1c.label>Tisch (1x1)</Table_1x1c.label>
+  <Table_1x1c.description>Man kann an Tischen essen, wenn Stühle an ihnen platziert werden.</Table_1x1c.description>
+  <Table_1x1c_Blueprint.label>Tisch (1x1) (Entwurf)</Table_1x1c_Blueprint.label>
+  <Table_1x1c_Blueprint_Install.label>Tisch (1x1) (Entwurf)</Table_1x1c_Blueprint_Install.label>
+  <Table_1x1c_Frame.label>Tisch (1x1) (wird gebaut)</Table_1x1c_Frame.label>
+  <Table_1x1c_Frame.description>People eat off tables when chairs are placed facing them.</Table_1x1c_Frame.description>
+
+  <Table_Counter.label>Theke</Table_Counter.label>
+  <Table_Counter.description>Eine glatte, brusthohe Fläche von der man essen kann. Oft in Küchen und Bars zu finden.</Table_Counter.description>
+  <Table_Counter_Blueprint.label>Theke (Entwurf)</Table_Counter_Blueprint.label>
+  <Table_Counter_Blueprint_Install.label>Theke (Entwurf)</Table_Counter_Blueprint_Install.label>
+  <Table_Counter_Frame.label>Theke (wird gebaut)</Table_Counter_Frame.label>
+  <Table_Counter_Frame.description>Eine glatte, brusthohe Fläche von der man essen kann. Oft in Küchen und Bars zu finden.</Table_Counter_Frame.description>
+
+</LanguageData>

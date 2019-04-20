@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Light_Streetlamp.label>Outdoor Lampe</Light_Streetlamp.label>
+  <Light_Streetlamp.description>Eine elektrische Lampe zum Erhellen eines Gebiets außerhalb der eigenen vier Wände. Es fängt kein Feuer und ist somit ideal geeignet zur Beleuchtung von Wegen. Schaltet sich tagsüber ab.</Light_Streetlamp.description>
+  <Light_Streetlamp.comps.2.offMessage>Off during daylight hours</Light_Streetlamp.comps.2.offMessage>
+  <Light_Streetlamp_Blueprint.label>Outdoor Lampe (Entwurf)</Light_Streetlamp_Blueprint.label>
+  <Light_Streetlamp_Blueprint_Install.label>Outdoor Lampe (Entwurf)</Light_Streetlamp_Blueprint_Install.label>
+  <Light_Streetlamp_Frame.label>Outdoor Lampe (wird gebaut)</Light_Streetlamp_Frame.label>
+  <Light_Streetlamp_Frame.description>Eine elektrische Lampe zum Erhellen eines Gebiets außerhalb der eigenen vier Wände. Es fängt kein Feuer und ist somit ideal geeignet zur Beleuchtung von Wegen. Schaltet sich tagsüber ab.</Light_Streetlamp_Frame.description>
+
+  <Misc_FileCabinet.label>Aktenschrank</Misc_FileCabinet.label>
+  <Misc_FileCabinet.description>Ein Möbelstück das zur Organisation von Dokumenten, Daten und Aufzeichnungen in Papierform verwendet wird.</Misc_FileCabinet.description>
+  <Misc_FileCabinet_Blueprint.label>Aktenschrank (Entwurf)</Misc_FileCabinet_Blueprint.label>
+  <Misc_FileCabinet_Blueprint_Install.label>Aktenschrank (Entwurf)</Misc_FileCabinet_Blueprint_Install.label>
+  <Misc_FileCabinet_Frame.label>Aktenschrank (wird gebaut)</Misc_FileCabinet_Frame.label>
+  <Misc_FileCabinet_Frame.description>Ein Möbelstück das zur Organisation von Dokumenten, Daten und Aufzeichnungen in Papierform verwendet wird.</Misc_FileCabinet_Frame.description>
+
+  <Stone_Campfire.label>Steingrubenfeuer</Stone_Campfire.label>
+  <Stone_Campfire.description>Produziert mehr Lichte aber dafür weniger Wärme. Kann als Kochstelle verwendet werden und brennt langsamer ab als ein gewöhnliches Lagerfeuer. Muss wie jede Wärmequelle innerhalb eines Raumes verwendet werden um die Hitze auch speichern zu können. Wird mit der Zeit erlischen und muss somit aufs neue entfacht werden.</Stone_Campfire.description>
+  <Stone_Campfire_Blueprint.label>Steingrubenfeuer (Entwurf)</Stone_Campfire_Blueprint.label>
+  <Stone_Campfire_Frame.label>Steingrubenfeuer (wird gebaut)</Stone_Campfire_Frame.label>
+  <Stone_Campfire_Frame.description>Produziert mehr Lichte aber dafür weniger Wärme. Kann als Kochstelle verwendet werden und brennt langsamer ab als ein gewöhnliches Lagerfeuer. Muss wie jede Wärmequelle innerhalb eines Raumes verwendet werden um die Hitze auch speichern zu können. Wird mit der Zeit erlischen und muss somit aufs neue entfacht werden.</Stone_Campfire_Frame.description>
+
+  <Shelf_1x1c.label>Schrank (1x1)</Shelf_1x1c.label>
+  <Shelf_1x1c.description>Ein kleiner Schrank um verschiedenste Dinge zu verstauen. Gegenstände werden nicht verkommen, als wären sie draussen gelagert.</Shelf_1x1c.description>
+  <Shelf_1x1c_Blueprint.label>Schrank (1x1) (Entwurf)</Shelf_1x1c_Blueprint.label>
+  <Shelf_1x1c_Blueprint_Install.label>Schrank (1x1) (Entwurf)</Shelf_1x1c_Blueprint_Install.label>
+  <Shelf_1x1c_Frame.label>Schrank (1x1) (wird gebaut)</Shelf_1x1c_Frame.label>
+  <Shelf_1x1c_Frame.description>Ein kleiner Schrank um verschiedenste Dinge zu verstauen. Gegenstände werden nicht verkommen, als wären sie draussen gelagert.</Shelf_1x1c_Frame.description>
+
+  <Shelf_WeaponRack.label>Waffenschrank</Shelf_WeaponRack.label>
+  <Shelf_WeaponRack.description>Ein Dienstschrank zur Pflichtausübung. Hier lassen sich Waffen verstauen, um sie vor dem verfallen zu schützen, selbst wenn man ihn draussen platziert.</Shelf_WeaponRack.description>
+  <Shelf_WeaponRack_Blueprint.label>Waffenschrank (Entwurf)</Shelf_WeaponRack_Blueprint.label>
+  <Shelf_WeaponRack_Blueprint_Install.label>Waffenschrank (Entwurf)</Shelf_WeaponRack_Blueprint_Install.label>
+  <Shelf_WeaponRack_Frame.label>Waffenschrank (wird gebaut)</Shelf_WeaponRack_Frame.label>
+  <Shelf_WeaponRack_Frame.description>Ein Dienstschrank zur Pflichtausübung. Hier lassen sich Waffen verstauen, um sie vor dem verfallen zu schützen, selbst wenn man ihn draussen platziert.</Shelf_WeaponRack_Frame.description>
+
+  <Bin_Small.label>Mülleimer</Bin_Small.label>
+  <Bin_Small.description>Ein kleiner Mülleimer, der dabei hilft die Umgebung halbwegs sauber zu halten und Müll in einem Umkreis von 10 Zellen langsam entfernt.</Bin_Small.description>
+  <Bin_Small_Blueprint.label>Mülleimer (Entwurf)</Bin_Small_Blueprint.label>
+  <Bin_Small_Blueprint_Install.label>Mülleimer (Entwurf)</Bin_Small_Blueprint_Install.label>
+  <Bin_Small_Frame.label>Mülleimer (wird gebaut)</Bin_Small_Frame.label>
+  <Bin_Small_Frame.description>Ein Mülleimer, der dabei hilft die Umgebung halbwegs sauber zu halten und Müll in einem Umkreis von 10 Zellen langsam entfernt.</Bin_Small_Frame.description>
+
+  <Bin_Large.label>Müllcontainer</Bin_Large.label>
+  <Bin_Large.description>Ein großer Müllcontainer, der dabei hilft die Umgebung halbwegs sauber zu halten und Müll in einem Umkreis von 20 Zellen langsam entfernt.</Bin_Large.description>
+  <Bin_Large_Blueprint.label>Müllcontainer (Entwurf)</Bin_Large_Blueprint.label>
+  <Bin_Large_Blueprint_Install.label>Müllcontainer (Entwurf)</Bin_Large_Blueprint_Install.label>
+  <Bin_Large_Frame.label>Müllcontainer (wird gebaut)</Bin_Large_Frame.label>
+  <Bin_Large_Frame.description>Ein großer Müllcontainer, der dabei hilft die Umgebung halbwegs sauber zu halten und Müll in einem Umkreis von 20 Zellen langsam entfernt.</Bin_Large_Frame.description>
+
+</LanguageData>

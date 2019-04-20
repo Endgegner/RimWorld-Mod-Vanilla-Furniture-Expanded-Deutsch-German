@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bed_Ergonomic.label>Ergonomisches Bett</Bed_Ergonomic.label>
+  <Bed_Ergonomic.description>Ein Bett mit einem ergonomischen Design, welches den Rücken entlastet und die Wirbelsäule bei der Gewichtsverteilung unterstützt. Verbessert die Qualität des Schlafes.</Bed_Ergonomic.description>
+  <Bed_Ergonomic_Blueprint.label>Ergonomisches Bett (Entwurf)</Bed_Ergonomic_Blueprint.label>
+  <Bed_Ergonomic_Blueprint_Install.label>Ergonomisches Bett (Entwurf)</Bed_Ergonomic_Blueprint_Install.label>
+  <Bed_Ergonomic_Frame.label>Ergonomisches Bett (wird gebaut)</Bed_Ergonomic_Frame.label>
+  <Bed_Ergonomic_Frame.description>Ein Bett mit einem ergonomischen Design, welches den Rücken entlastet und die Wirbelsäule bei der Gewichtsverteilung unterstützt. Verbessert die Qualität des Schlafes.</Bed_Ergonomic_Frame.description>
+
+  <Bed_DoubleErgonomic.label>Ergonomisches Doppelbett</Bed_DoubleErgonomic.label>
+  <Bed_DoubleErgonomic.description>Ein Bett mit ergonomischen Design in doppelter Größe, welches den Rücken entlastet und die Wirbelsäule bei der Gewichtsverteilung unterstützt. Verbessert die Qualität des Schlafes und hat genug Platz für Zwei.</Bed_DoubleErgonomic.description>
+  <Bed_DoubleErgonomic_Blueprint.label>Ergonomisches Doppelbett (Entwurf)</Bed_DoubleErgonomic_Blueprint.label>
+  <Bed_DoubleErgonomic_Blueprint_Install.label>Ergonomisches Doppelbett (Entwurf)</Bed_DoubleErgonomic_Blueprint_Install.label>
+  <Bed_DoubleErgonomic_Frame.label>Ergonomisches Doppelbett (wird gebaut)</Bed_DoubleErgonomic_Frame.label>
+  <Bed_DoubleErgonomic_Frame.description>Ein Bett mit ergonomischen Design in doppelter Größe, welches den Rücken entlastet und die Wirbelsäule bei der Gewichtsverteilung unterstützt. Verbessert die Qualität des Schlafes und hat genug Platz für Zwei.</Bed_DoubleErgonomic_Frame.description>
+
+  <Table_Wardrobe.label>Garderobe</Table_Wardrobe.label>
+  <Table_Wardrobe.description>Eine hohe Garderobe um Kleidung und andere Gegenstände zu verstauen. Erhöht die Effektivität naher Betten. Mehr als eine Garderobe an ein Bett zu stellen, hat jedoch keinen zusätzlichen Effekt.</Table_Wardrobe.description>
+  <Table_Wardrobe_Blueprint.label>Garderobe (Entwurf)</Table_Wardrobe_Blueprint.label>
+  <Table_Wardrobe_Blueprint_Install.label>Garderobe (Entwurf)</Table_Wardrobe_Blueprint_Install.label>
+  <Table_Wardrobe_Frame.label>Garderobe (wird gebaut)</Table_Wardrobe_Frame.label>
+  <Table_Wardrobe_Frame.description>Eine hohe Garderobe um Kleidung und andere Gegenstände zu verstauen. Erhöht die Effektivität naher Betten. Mehr als eine Garderobe an ein Bett zu stellen, hat jedoch keinen zusätzlichen Effekt.</Table_Wardrobe_Frame.description>
+
+  <Seat_ModernChair.label>Ergonomischer Stuhl</Seat_ModernChair.label>
+  <Seat_ModernChair.description>Ein flexibler ergonomischer Stuhl, der entworfen wurde um sich den Kurven des menschlichen Körpers anzupassen. Erhöht den Komfort maßgeblich.</Seat_ModernChair.description>
+  <Seat_ModernChair_Blueprint.label>Ergonomischer Stuhl (Entwurf)</Seat_ModernChair_Blueprint.label>
+  <Seat_ModernChair_Blueprint_Install.label>Ergonomischer Stuhl (Entwurf)</Seat_ModernChair_Blueprint_Install.label>
+  <Seat_ModernChair_Frame.label>Ergonomischer Stuhl (wird gebaut)</Seat_ModernChair_Frame.label>
+  <Seat_ModernChair_Frame.description>Ein flexibler ergonomischer Stuhl, der entworfen wurde um sich den Kurven des menschlichen Körpers anzupassen. Erhöht den Komfort maßgeblich.</Seat_ModernChair_Frame.description>
+
+  <Light_ModernLamp.label>Moderne Lampe</Light_ModernLamp.label>
+  <Light_ModernLamp.description>Ein Energiesparlampe welche effektiv Elektrizität in Licht umwandelt. Geeignet für Räume. Wird im Freien einen Kurzschluss erzeugen, falls es regnet.</Light_ModernLamp.description>
+  <Light_ModernLamp_Blueprint.label>Moderne Lampe (Entwurf)</Light_ModernLamp_Blueprint.label>
+  <Light_ModernLamp_Blueprint_Install.label>Moderne Lampe (Entwurf)</Light_ModernLamp_Blueprint_Install.label>
+  <Light_ModernLamp_Frame.label>Moderne Lampe (wird gebaut)</Light_ModernLamp_Frame.label>
+  <Light_ModernLamp_Frame.description>Ein Energiesparlampe welche effektiv Elektrizität in Licht umwandelt. Geeignet für Räume. Wird im Freien einen Kurzschluss erzeugen, falls es regnet.</Light_ModernLamp_Frame.description>
+
+</LanguageData>

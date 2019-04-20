@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MF_BasicFurniture.label>Einfache Möbel</MF_BasicFurniture.label>
+  <MF_BasicFurniture.description>Baue simples Mobiliar wie Betten, Tische, Stühle, Bänke und mehr.</MF_BasicFurniture.description>
+
+  <MF_RoyalFurniture.label>Künstlerische Möbel</MF_RoyalFurniture.label>
+  <MF_RoyalFurniture.description>Lerne Kunsthandwerk. Entwerfe luxuriöses Mobiliar, welches stark auf Ästethik und Schönheit anstatt auf praktischem Nutzen basiert. Wird eher in Villen der wohlhabenen Elite gesehen. Inkludiert Himmelbetten, majestätische Stühle, Tische und erhabene Sessel.</MF_RoyalFurniture.description>
+
+  <MF_ModernFurniture.label>Moderne Möbel</MF_ModernFurniture.label>
+  <MF_ModernFurniture.description>Konstruiere Mobiliar der modernen Zeit, das eher auf das Praktische seinen Wert legt, anstatt mit Schönheit zu glänzen. Darunter befinden sich Roulette Tische, Garderoben, Dartscheiben, Boxsäcke und ergonomische Betten.</MF_ModernFurniture.description>
+
+  <MF_WasteDisposal.label>Abfallentsorgung</MF_WasteDisposal.label>
+  <MF_WasteDisposal.description>Verbessere die Müllbeseitigung und lerne wie man Mülleimer und -container hersellt, die langsam ihre Umgebung säubern.</MF_WasteDisposal.description>
+
+</LanguageData>

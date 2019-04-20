@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seat_Cushion.label>Sitzkissen</Seat_Cushion.label>
+  <Seat_Cushion.description>Ein einfaches Polster auf dem man sitzen kann und das bei Stämmen beliebt ist. Kann auch bei Tischen, Werkbänken und anderen Gelegenheiten benutzt werden.</Seat_Cushion.description>
+  <Seat_Cushion_Blueprint.label>Sitzkissen (Entwurf)</Seat_Cushion_Blueprint.label>
+  <Seat_Cushion_Blueprint_Install.label>sitting cushion (Entwurf)</Seat_Cushion_Blueprint_Install.label>
+  <Seat_Cushion_Frame.label>Sitzkissen (wird gebaut)</Seat_Cushion_Frame.label>
+  <Seat_Cushion_Frame.description>Ein einfaches Polster auf dem man sitzen kann und das bei Stämmen beliebt ist. Kann auch bei Tischen, Werkbänken und anderen Gelegenheiten benutzt werden.</Seat_Cushion_Frame.description>
+
+  <Seat_Bench.label>Bank</Seat_Bench.label>
+  <Seat_Bench.description>Eine einfach Ebene auf der man seinen Allerwertesten platzieren kann. Es können hier gleich mehrere Leute Platz finden. Nicht sehr bequem aber besser als nichts. Kann auch in Verbindung mit Tischen, Werkbänken und anderen Dingen benutzt werden.</Seat_Bench.description>
+  <Seat_Bench_Blueprint.label>Bank (Entwurf)</Seat_Bench_Blueprint.label>
+  <Seat_Bench_Blueprint_Install.label>Bank (Entwurf)</Seat_Bench_Blueprint_Install.label>
+  <Seat_Bench_Frame.label>Bank (wird gebaut)</Seat_Bench_Frame.label>
+  <Seat_Bench_Frame.description>Eine einfach Ebene auf der man seinen Allerwertesten platzieren kann. Es können hier gleich mehrere Leute Platz finden. Nicht sehr bequem aber besser als nichts. Kann auch in Verbindung mit Tischen, Werkbänken und anderen Dingen benutzt werden.</Seat_Bench_Frame.description>
+
+  <Seat_SquareChair.label>Quadratstuhl</Seat_SquareChair.label>
+  <Seat_SquareChair.description>Ein komfortabler und attraktiver Stuhl der nicht zwingend zum Speisen verwendet wird. Kann auch in Verbindung mit Tischen, Werkbänken und anderen Dingen benutzt werden.</Seat_SquareChair.description>
+  <Seat_SquareChair_Blueprint.label>Quadratstuhl (Entwurf)</Seat_SquareChair_Blueprint.label>
+  <Seat_SquareChair_Blueprint_Install.label>Quadratstuhl (Entwurf)</Seat_SquareChair_Blueprint_Install.label>
+  <Seat_SquareChair_Frame.label>Quadratstuhl (wird gebaut)</Seat_SquareChair_Frame.label>
+  <Seat_SquareChair_Frame.description>Ein komfortabler und attraktiver Stuhl der nicht zwingend zum Speisen verwendet wird. Kann auch in Verbindung mit Tischen, Werkbänken und anderen Dingen benutzt werden.</Seat_SquareChair_Frame.description>
+
+</LanguageData>
