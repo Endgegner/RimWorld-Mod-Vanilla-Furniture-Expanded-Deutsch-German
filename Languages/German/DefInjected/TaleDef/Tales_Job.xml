@@ -2,11 +2,11 @@
 <LanguageData>
 
   <Tale_UsedPunchingBag.label>Hat Boxsack geschlagen</Tale_UsedPunchingBag.label>
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] lässt seinen Ärger an [OBJECT_label] aus</Tale_UsedPunchingBag.rulePack.rulesStrings.0>
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] schaut wütended auf [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.1>
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] vergnügt sich mit [PAWN_objective] selbst am [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.2>
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.3>image->[PAWN_nameFull] duckt sich vor [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.3>
-  <Tale_UsedPunchingBag.rulePack.rulesStrings.4>image->[PAWN_nameFull] schlägt [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.4>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.0>tale_noun->[PAWN_nameDef] lässt seinen Ärger am [OBJECT_label] aus</Tale_UsedPunchingBag.rulePack.rulesStrings.0>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.1>tale_noun->[PAWN_nameDef] schaut wütended auf den [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.1>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.2>tale_noun->[PAWN_nameDef] vergnügt sich mit dem [PAWN_objective] selbst am [OBJECT_label]</Tale_UsedPunchingBag.rulePack.rulesStrings.2>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.3>image->[PAWN_nameFull] duckt sich vor dem [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.3>
+  <Tale_UsedPunchingBag.rulePack.rulesStrings.4>image->[PAWN_nameFull] schlägt den [OBJECT_label], [circumstance_group]</Tale_UsedPunchingBag.rulePack.rulesStrings.4>
   <Tale_UsedPunchingBag.rulePack.rulesStrings.5>circumstance_phrase->mit angespannter Energie</Tale_UsedPunchingBag.rulePack.rulesStrings.5>
   <Tale_UsedPunchingBag.rulePack.rulesStrings.6>circumstance_phrase->[PAWN_possessive] Körper wird locker und relaxed</Tale_UsedPunchingBag.rulePack.rulesStrings.6>
   <Tale_UsedPunchingBag.rulePack.rulesStrings.7>circumstance_phrase->massiert behutsam [PAWN_possessive] Handgelenke</Tale_UsedPunchingBag.rulePack.rulesStrings.7>
