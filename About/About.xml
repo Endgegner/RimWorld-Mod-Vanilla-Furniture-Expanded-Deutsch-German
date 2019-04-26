@@ -1,8 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Vanilla Furniture Expanded [DE/GER]</name>
+  <name>Vanilla Furniture Expanded DE</name>
   <author>Trunken</author>
   <url></url>
   <supportedVersions><li>1.0</li></supportedVersions>
-  <description>Fügt allerhand nützliches Mobiliar zum Spiel hinzu.</description>
+  <description>Deutsch Übersetzung des Vanilla Furniture Expanded Mods von Atlas und Oskar Potocki. Fügt dem Spiel allerhand nützliches Mobiliar hinzu.
+
+ - Lässt sich zu Spielständen hinzufügen.
+ - Benötigt Vanilla Furniture Expanded
+
+&lt;b&gt;Achtung&lt;/b&gt;: Vanilla Furniture Expanded muss zusätzlich installiert werden und sollte in der Mod-Liste vor dem German Patch ausgeführt werden. Zuerst Vanilla Furniture Expanded, dann den German Patch laden.
+
+Alle meine Uploads achten darauf die Atmosphäre sowie das Flare von RimWorld einzufangen und zu erhalten.
+
+Translated by Endgegner
+</description>
 </ModMetaData>
