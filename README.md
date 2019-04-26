@@ -9,7 +9,7 @@ Fügt dem Spiel allerhand nützliches Mobiliar hinzu.
  - Lässt sich zu Spielständen hinzufügen.
  - Benötigt Vanilla Furniture Expanded
 
-<b>Achtung:</b>Vanilla Furniture Expanded muss zusätzlich installiert werden und sollte in der Mod-Liste vor dem German Patch ausgeführt werden. Zuerst Vanilla Furniture Expanded, dann den German Patch laden.
+<b>Achtung:</b> Vanilla Furniture Expanded muss zusätzlich installiert werden und sollte in der Mod-Liste vor dem German Patch ausgeführt werden. Zuerst Vanilla Furniture Expanded, dann den German Patch laden.
 
 Alle meine Uploads achten darauf die Atmosphäre sowie das Flare von RimWorld einzufangen und zu erhalten.
 
