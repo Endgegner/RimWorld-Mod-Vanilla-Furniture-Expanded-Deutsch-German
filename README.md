@@ -10,8 +10,8 @@ Fügt dem Spiel allerhand nützliches Mobiliar hinzu.
 
 Alle meine Uploads achten darauf die Atmosphäre sowie das Flare von RimWorld einzufangen und zu erhalten.
 
-Mod by Atlas & Oskar Potocki
-Translated by Endgegner
+Mod by Atlas & Oskar Potocki<br>
+Translated by Endgegner<br>
 
 <b>License</b>
 - You may change, edit, modify the code and even take this whole thing as a template for your mods.
