@@ -1,70 +1,70 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bed_Kingsize.label>Majestätisches Himmelbett</Bed_Kingsize.label>
-  <Bed_Kingsize.description>Ein Mobiliar um einen König zu betten. Die getäfelten Goldplättchen und durchdachten Polsterkissen ermöglichen einen begünstigten Schlaf. Luxuriös, extrem anschmiegsam, von herrlicher Pracht und bietet zugleich Platz für Zwei.</Bed_Kingsize.description>
+  <Bed_Kingsize.label>Majestäts Himmelbett</Bed_Kingsize.label>
+  <Bed_Kingsize.description>Ein Möbelstück um einen König zu betten. Die getäfelten Goldplättchen und durchdachten Polsterkissen ermöglichen einen begünstigten Schlaf. Luxuriös, extrem anschmiegsam und von herrlicher Pracht, bietet dieses majestätische Bett gleich Platz für Zwei.</Bed_Kingsize.description>
   <Bed_Kingsize_Blueprint.label>Majestätisches Himmelbett (Entwurf)</Bed_Kingsize_Blueprint.label>
   <Bed_Kingsize_Blueprint_Install.label>Majestätisches Himmelbett (Entwurf)</Bed_Kingsize_Blueprint_Install.label>
   <Bed_Kingsize_Frame.label>Majestätisches Himmelbett (wird gebaut)</Bed_Kingsize_Frame.label>
-  <Bed_Kingsize_Frame.description>Ein Mobiliar um einen König zu betten. Die getäfelten Goldplättchen und durchdachten Polsterkissen ermöglichen einen begünstigten Schlaf. Luxuriös, extrem anschmiegsam, von herrlicher Pracht und bietet zugleich Platz für Zwei.</Bed_Kingsize_Frame.description>
+  <Bed_Kingsize_Frame.description>Ein Möbelstück um einen König zu betten. Die getäfelten Goldplättchen und durchdachten Polsterkissen ermöglichen einen begünstigten Schlaf. Luxuriös, extrem anschmiegsam und von herrlicher Pracht, bietet dieses majestätische Bett gleich Platz für Zwei.</Bed_Kingsize_Frame.description>
 
-  <Table_RoyalEndTable.label>Majestätischer Nachtkasten</Table_RoyalEndTable.label>
+  <Table_RoyalEndTable.label>Majestäts Nachtkasten</Table_RoyalEndTable.label>
   <Table_RoyalEndTable.description>Ein kleiner Nachtkasten dessen verzierte Armaturen aus reinem Gold gemacht wurden. Er macht nahe Betten angenehmer, muss dafür aber zum Kopfende hin platziert werden. Mehr als einer hat keinen zusätzlichen Effekt.</Table_RoyalEndTable.description>
   <Table_RoyalEndTable_Blueprint.label>Majestätischer Nachtkasten (Entwurf)</Table_RoyalEndTable_Blueprint.label>
   <Table_RoyalEndTable_Blueprint_Install.label>Majestätischer Nachtkasten (Entwurf)</Table_RoyalEndTable_Blueprint_Install.label>
   <Table_RoyalEndTable_Frame.label>Majestätischer Nachtkasten (wird gebaut)</Table_RoyalEndTable_Frame.label>
   <Table_RoyalEndTable_Frame.description>Ein kleiner Nachtkasten dessen verzierte Armaturen aus reinem Gold gemacht wurden. Er macht nahe Betten angenehmer, muss dafür aber zum Kopfende hin platziert werden. Mehr als einer hat keinen zusätzlichen Effekt.</Table_RoyalEndTable_Frame.description>
 
-  <Table_RoyalDresser.label>Majestätische Garderobe</Table_RoyalDresser.label>
+  <Table_RoyalDresser.label>Majestäts Kommode</Table_RoyalDresser.label>
   <Table_RoyalDresser.description>Ein Garderobenschrank der wahrlich eines Königs würdig ist. Wurde elegant mit Einlagen aus reinem Gold verziert und macht nahe Betten angenehmer, muss dafür aber zum Kopfende hin platziert werden. Mehr als einer hat keinen zusätzlichen Effekt.</Table_RoyalDresser.description>
-  <Table_RoyalDresser_Blueprint.label>Majestätische Garderobe (Entwurf)</Table_RoyalDresser_Blueprint.label>
-  <Table_RoyalDresser_Blueprint_Install.label>Majestätische Garderobe (Entwurf)</Table_RoyalDresser_Blueprint_Install.label>
-  <Table_RoyalDresser_Frame.label>Majestätische Garderobe (wird gebaut)</Table_RoyalDresser_Frame.label>
+  <Table_RoyalDresser_Blueprint.label>Majestätische Kommode (Entwurf)</Table_RoyalDresser_Blueprint.label>
+  <Table_RoyalDresser_Blueprint_Install.label>Majestätische Kommode (Entwurf)</Table_RoyalDresser_Blueprint_Install.label>
+  <Table_RoyalDresser_Frame.label>Majestätische Kommode (wird gebaut)</Table_RoyalDresser_Frame.label>
   <Table_RoyalDresser_Frame.description>Ein Garderobenschrank der wahrlich eines Königs würdig ist. Wurde elegant mit Einlagen aus reinem Gold verziert und macht nahe Betten angenehmer, muss dafür aber zum Kopfende hin platziert werden. Mehr als einer hat keinen zusätzlichen Effekt.</Table_RoyalDresser_Frame.description>
 
-  <Seat_RoyalChair.label>Majestätischer Polsterstuhl</Seat_RoyalChair.label>
+  <Seat_RoyalChair.label>Majestäts Polsterstuhl</Seat_RoyalChair.label>
   <Seat_RoyalChair.description>Ein behaglicher Polsterstuhl mit besonders weichem Sitzbereich und hoher Rückenlehne innerhalb eines goldenen Rahmens. Kann vielseitig eingesetzt werden.</Seat_RoyalChair.description>
   <Seat_RoyalChair_Blueprint.label>Majestätischer Polsterstuhl (Entwurf)</Seat_RoyalChair_Blueprint.label>
   <Seat_RoyalChair_Blueprint_Install.label>Majestätischer Polsterstuhl (Entwurf)</Seat_RoyalChair_Blueprint_Install.label>
   <Seat_RoyalChair_Frame.label>Majestätischer Polsterstuhl (wird gebaut)</Seat_RoyalChair_Frame.label>
   <Seat_RoyalChair_Frame.description>Ein behaglicher Polsterstuhl mit besonders weichem Sitzbereich und hoher Rückenlehne innerhalb eines goldenen Rahmens. Kann vielseitig eingesetzt werden.</Seat_RoyalChair_Frame.description>
 
-  <Seat_RoyalArmchair.label>Majestätischer Sessel</Seat_RoyalArmchair.label>
+  <Seat_RoyalArmchair.label>Majestäts Sessel</Seat_RoyalArmchair.label>
   <Seat_RoyalArmchair.description>Ein großer, weicher und luxuriöser Sessel mit gepolsterter Armlehne. Von einem goldenen Rahmen gehalten, wird er nur von der wohlhabensten Elite verwendet. Kann vielseitig eingesetzt werden.</Seat_RoyalArmchair.description>
   <Seat_RoyalArmchair_Blueprint.label>Majestätischer Sessel (Entwurf)</Seat_RoyalArmchair_Blueprint.label>
   <Seat_RoyalArmchair_Blueprint_Install.label>Majestätischer Sessel (Entwurf)</Seat_RoyalArmchair_Blueprint_Install.label>
   <Seat_RoyalArmchair_Frame.label>Majestätischer Sessel (wird gebaut)</Seat_RoyalArmchair_Frame.label>
   <Seat_RoyalArmchair_Frame.description>Ein großer, weicher und luxuriöser Sessel mit gepolsterter Armlehne. Von einem goldenen Rahmen gehalten, wird er nur von der wohlhabensten Elite verwendet. Kann vielseitig eingesetzt werden.</Seat_RoyalArmchair_Frame.description>
 
-  <Table_Royal1x1c.label>Majestätischer Tisch (1x1)</Table_Royal1x1c.label>
+  <Table_Royal1x1c.label>Majestäts Tisch (1x1)</Table_Royal1x1c.label>
   <Table_Royal1x1c.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal1x1c.description>
   <Table_Royal1x1c_Blueprint.label>Majestätischer Tisch (1x1) (Entwurf)</Table_Royal1x1c_Blueprint.label>
   <Table_Royal1x1c_Blueprint_Install.label>Majestätischer Tisch (1x1) (Entwurf)</Table_Royal1x1c_Blueprint_Install.label>
   <Table_Royal1x1c_Frame.label>Majestätischer Tisch (1x1) (wird gebaut)</Table_Royal1x1c_Frame.label>
   <Table_Royal1x1c_Frame.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal1x1c_Frame.description>
 
-  <Table_Royal2x2c.label>Majestätischer Tisch (2x2)</Table_Royal2x2c.label>
+  <Table_Royal2x2c.label>Majestäts Tisch (2x2)</Table_Royal2x2c.label>
   <Table_Royal2x2c.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal2x2c.description>
   <Table_Royal2x2c_Blueprint.label>Majestätischer Tisch (2x2) (Entwurf)</Table_Royal2x2c_Blueprint.label>
   <Table_Royal2x2c_Blueprint_Install.label>Majestätischer Tisch (2x2) (Entwurf)</Table_Royal2x2c_Blueprint_Install.label>
   <Table_Royal2x2c_Frame.label>Majestätischer Tisch (2x2) (wird gebaut)</Table_Royal2x2c_Frame.label>
   <Table_Royal2x2c_Frame.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal2x2c_Frame.description>
 
-  <Table_Royal1x2c.label>Majestätischer Tisch (1x2)</Table_Royal1x2c.label>
+  <Table_Royal1x2c.label>Majestäts Tisch (1x2)</Table_Royal1x2c.label>
   <Table_Royal1x2c.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal1x2c.description>
   <Table_Royal1x2c_Blueprint.label>Majestätischer Tisch (1x2) (Entwurf)</Table_Royal1x2c_Blueprint.label>
   <Table_Royal1x2c_Blueprint_Install.label>Majestätischer Tisch (1x2) (Entwurf)</Table_Royal1x2c_Blueprint_Install.label>
   <Table_Royal1x2c_Frame.label>Majestätischer Tisch (1x2) (wird gebaut)</Table_Royal1x2c_Frame.label>
   <Table_Royal1x2c_Frame.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal1x2c_Frame.description>
 
-  <Table_Royal3x3c.label>Majestätischer Tisch (3x3)</Table_Royal3x3c.label>
+  <Table_Royal3x3c.label>Majestäts Tisch (3x3)</Table_Royal3x3c.label>
   <Table_Royal3x3c.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal3x3c.description>
   <Table_Royal3x3c_Blueprint.label>Majestätischer Tisch (3x3) (Entwurf)</Table_Royal3x3c_Blueprint.label>
   <Table_Royal3x3c_Blueprint_Install.label>Majestätischer Tisch (3x3) (Entwurf)</Table_Royal3x3c_Blueprint_Install.label>
   <Table_Royal3x3c_Frame.label>Majestätischer Tisch (3x3) (wird gebaut)</Table_Royal3x3c_Frame.label>
   <Table_Royal3x3c_Frame.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal3x3c_Frame.description>
 
-  <Table_Royal2x4c.label>Majestätischer Tisch (2x4)</Table_Royal2x4c.label>
+  <Table_Royal2x4c.label>Majestäts Tisch (2x4)</Table_Royal2x4c.label>
   <Table_Royal2x4c.description>Ein eindrucksvoller Tisch von dem man speisen kann mit einem Rand aus Gold und runden Ecken. Gemacht für die Reichen und Wohlhabenen.</Table_Royal2x4c.description>
   <Table_Royal2x4c_Blueprint.label>Majestätischer Tisch (2x4) (Entwurf)</Table_Royal2x4c_Blueprint.label>
   <Table_Royal2x4c_Blueprint_Install.label>Majestätischer Tisch (2x4) (Entwurf)</Table_Royal2x4c_Blueprint_Install.label>

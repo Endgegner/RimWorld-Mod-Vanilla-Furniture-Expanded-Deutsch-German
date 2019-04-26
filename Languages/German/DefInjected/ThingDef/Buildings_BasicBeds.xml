@@ -9,10 +9,10 @@
   <Bed_StoneSlab_Frame.description>Ein großes Tafelbett aus geglättetem Stein. Sehr unbequem und nicht wirklich viel besser als gleich auf den Boden zu schlafen.</Bed_StoneSlab_Frame.description>
 
   <Bed_Simple.label>Gestellbett</Bed_Simple.label>
-  <Bed_Simple.description>Ein recht komfortables Gestellbett mit einem Netz als Liegefläche und einem stabilen Rahmen.</Bed_Simple.description>
+  <Bed_Simple.description>Ein recht komfortables Gestellbett mit einem stabilen Rahmen und einem Netz als Liegefläche.</Bed_Simple.description>
   <Bed_Simple_Blueprint.label>Gestellbett (Entwurf)</Bed_Simple_Blueprint.label>
   <Bed_Simple_Blueprint_Install.label>Gestellbett (Entwurf)</Bed_Simple_Blueprint_Install.label>
   <Bed_Simple_Frame.label>Gestellbett (wird gebaut)</Bed_Simple_Frame.label>
-  <Bed_Simple_Frame.description>Ein recht komfortables Gestellbett mit einem Netz als Liegefläche und einem stabilen Rahmen.</Bed_Simple_Frame.description>
+  <Bed_Simple_Frame.description>Ein recht komfortables Gestellbett mit einem stabilen Rahmen und einem Netz als Liegefläche.</Bed_Simple_Frame.description>
 
 </LanguageData>
