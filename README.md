@@ -14,7 +14,7 @@ Zum Spiel werden allerhand medizinische Erweiterungen hinzufügt, aber auch die 
 
 Alle meine Uploads achten darauf die Atmosphäre sowie das Flare von RimWorld einzufangen und zu erhalten.
 
-Mod by Oskar Potocki<br>
+Mod by Atlas & Oskar Potocki<br>
 Translated by Endgegner<br>
 
 <b>License</b>
