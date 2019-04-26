@@ -1,5 +1,5 @@
 # RimWorld-Mod-Vanilla-Furniture-Expanded-Deutsch-German
-Deutsch Übersetzung des RimWorld-Mods Vanilla Furniture Expanded (GER/DE Translation)
+Deutsch Übersetzung des RimWorld-Mods Vanilla Furniture Expanded (DE/GER Translation)
 
 Fügt dem Spiel allerhand nützliches Mobiliar hinzu.
 
